@@ -2,9 +2,11 @@
 layout: post
 title: Our Polling Procedure
 description: How we gather our data
+author: Cade Brown
 comments: true
 image: assets/images/polling.jpg
-author: Cade Brown
+tags:
+  - official
 ---
 
 In our goal to provide polling data and accurate figures, we will shed some light on how we gather our data:

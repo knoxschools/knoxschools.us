@@ -2,9 +2,12 @@
 layout: post
 title: First Post
 description: knoxschools.us
+author: Cade Brown
 comments: true
 image: assets/images/firstpost.jpg
-author: Cade Brown
+tags:
+  - official
+  - update
 ---
 
 Welcome to our blog!
