@@ -8,6 +8,7 @@
                 <header class="major">
                         <h3><a href="{{ post.url  }}" class="link">{{ post.title }}</a></h3>
                         <p>{{ post.description }}</p>
+                        {% if post.author %}<br/><p>by {{ post.author }}</p>{% endif %}
                 </header>
         </article>
 	{% endif %}
@@ -21,6 +22,7 @@
                 <header class="major">
                         <h3><a href="{{ page.url  }}" class="link">{{ page.title }}</a></h3>
                         <p>{{ page.description }}</p>
+                        {% if post.author %}<br/><p>by {{ post.author }}</p>{% endif %}
                 </header>
         </article>
 	{% endif %}

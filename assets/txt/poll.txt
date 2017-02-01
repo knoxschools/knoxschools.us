@@ -1,0 +1,65 @@
+# Poll
+
+We are going to ask you a few questions about your school, administrators, and teachers.
+
+(keep tally marks in the spaces beside the name)
+
+
+## School (ask this to everyone)
+
+  * L&N STEM       [         :         ]  [         :         ]  [         :         ] 
+
+### Questions
+
+  1. Do you like with the L&N STEM Academy? (y/n)
+
+  2. Do you like the faculty at the L&N STEM Academy? (y/n)
+
+  3. Do you like the student body at the L&N STEM Academy? (y/n)
+
+
+
+## Administrators/non-teachers (ask each student about 2 admins) 
+
+  * Mr. Allen      [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Ashe       [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Childers   [         :         ]  [         :         ]  [         :         ]
+  * Ms. Basner     [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Morrell    [         :         ]  [         :         ]  [         :         ] 
+
+### Questions
+
+  1. Do you approve of the job he/she is doing? (y/n)
+
+  2. Do you believe he/she is knowledgeable about leadership? (y/n)
+  
+  3. Do you feel he/she has a fair disciplinary policy? (y/n)
+
+
+
+## Teachers (ask each student about 3-4 teachers, making sure they have the teacher)
+
+  * Mr. Arnold     [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Bell       [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Blamer     [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Blevins    [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Brown      [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Colby      [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Crattie    [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Fannon     [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Foy        [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Gibson     [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Griggs     [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Hawkins    [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Lafollette [         :         ]  [         :         ]  [         :         ] 
+  * Ms. Pariseau   [         :         ]  [         :         ]  [         :         ] 
+  * Mr. Waxmonsky  [         :         ]  [         :         ]  [         :         ] 
+
+### Questions
+
+  1. Do you approve of the job he/she is doing? (y/n)
+
+  2. Do you believe he/she is knowledgeable about the subject they teach? (y/n)
+  
+  3. Do you feel he/she has a fair grading policy? (y/n)
+
