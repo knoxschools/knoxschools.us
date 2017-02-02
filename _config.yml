@@ -2,16 +2,12 @@
 title: knoxschools.us
 subtitle: real news
 email: info@knoxschools.us
-description: Real school news that matters
+description: School news that matters
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://knoxschools.us" # the base hostname & protocol for your site
 author: CB & GC
-street_address: 1234 Somewhere Road
-city: Nashville
+city: Knoxville
 state: TN
-zip_code: 
-country: 
-phone: 
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,7 +16,7 @@ tiles-count: 6
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: http://github.com/knoxschools/
 gitlab_url:
 googleplus_url:
 instagram_url:

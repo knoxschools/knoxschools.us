@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Tags
+permalink: /blog/tags/
+nav-menu: false
 ---
 
 {% assign rawtags = "" %}
@@ -27,7 +29,9 @@ title: Tags
 {% endfor %}
 
 {% for tag in tags %}
-	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+	<h2 id="{{ tag | slugify }}">
+	</h2><br/><br/>
+	<h2>{{ tag }}</h2>
 	<ul>
 	 {% for post in site.posts %}
 		 {% if post.tags contains tag %}

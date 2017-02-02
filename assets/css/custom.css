@@ -1,5 +1,10 @@
 
-.indent {
+.indent  {
+    position: relative;
+    left: 2em;
+}
+
+li  {
     position: relative;
     left: 2em;
 }
