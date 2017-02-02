@@ -2,7 +2,6 @@
 layout: post
 title: About us
 description: L&N STEM Academy News
-menu: true
 permalink: /about/
 ---
 
