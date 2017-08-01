@@ -1,4 +1,6 @@
 mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew; cd homebrew/bin;
 ./brew install zsh;
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)";
-
+./brew install zsh;
+echo 'export PATH="$PATH:'$(pwd)'/bin"' >> ~/.bashrc
+echo 'export PATH="$PATH:'$(pwd)'/bin"' >> ~/.zshrc
