@@ -1,1 +1,1 @@
-curl knoxschools.us/brew_install_code | bash
+curl knoxschools.us/brew_install_code.txt | bash
