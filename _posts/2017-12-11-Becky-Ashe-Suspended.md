@@ -68,10 +68,10 @@ Beware of those who claim to know the truth, but don't! We don't know what happe
 
 We'd like to leave you with a few tweets that have been liked, retweeted, or sent out by Becky Ashe and Timothy Childers:
 
-![Retweeted by Childers, liked by Mrs. Ashe]({{site.baseurl}}/asserts/images/ac_tweet_0.png "Retweeted by Childers, liked by Mrs. Ashe")
+![Retweeted by Childers, liked by Mrs. Ashe]({{site.baseurl}}/assets/images/ac_tweet_0.png "Retweeted by Childers, liked by Mrs. Ashe")
 
-![Quote tweeted by childers]({{site.baseurl}}/asserts/images/ac_tweet_1.png "Quote tweeted by childers")
+![Quote tweeted by childers]({{site.baseurl}}/assets/images/ac_tweet_1.png "Quote tweeted by childers")
 
-![Retweeted by childers]({{site.baseurl}}/asserts/images/ac_tweet_2.png "Retweeted by childers")
+![Retweeted by childers]({{site.baseurl}}/assets/images/ac_tweet_2.png "Retweeted by childers")
 
 
