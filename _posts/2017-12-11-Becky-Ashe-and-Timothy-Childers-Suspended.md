@@ -10,6 +10,23 @@ tags:
   - update
 ---
 
+
+# UPDATE #1
+
+[2017-12-13_StatementOnLNAcademy.pdf]({{site.baseurl}}/assets/2017-12-13_StatementOnLNAcademy.pdf).
+
+[Professional Educators of Tennessee](http://proedtn.org) has released a statement to us, which states:
+
+> Mr. Childers and Ms. Ashe, based on the information we have received, discharged their professional responsibilities in accordance with state law
+
+Furthermore, we can rule out a number of theories based on the following information:
+
+> They did not instigate or cause this incident, the specifics of which are currently under investigation
+
+
+# Original Post
+
+
 What happened to Becky Ashe and Timothy Childers? We aren't sure yet. However, we have ruled some explanations out, and here we provide facts and research about the incident. We are surprised about the lack of transparency (which is held as one of the tenets of any honest system) from KCS and the effort to keep people in the dark. Let this article serve as an illumination.
 
 
@@ -49,17 +66,19 @@ Here are some common theories. DISCLAIMER: these are not accusations, nor foolpr
 
 
 
-## Unproven Theories
+## Plausible Theories
 
-  * Ashe and Childers were smudging test grades or allowing cheating. The motivation would be for more school grants, and to maintain our high status as a high scoring school. Previous case: ["We found that the L&N STEM Academy was not in alignment with our district procedures regarding administering the local assessment required for recovery credit courses"](http://archive.knoxnews.com/news/former-stem-student-alleges-cheating-ep-510399095-355471961.html/).
-  * Some sort of public funds mishap (possibly unintentional), wherein the adminstrators improperly used funds for some use.
+  * A case where a student got lost (or tried to run away) downtown, which was handled and reported by Ashe and Childers, but then the mother of the girl who was displaced filed a report against them.
   * DCS (since they have released a statement on the issue) may have had a case mishandled and/or improperly handled or cared for a student who was placed under control of a foster parent.
 
 
 ## Discredited Theories
  
+  * Ashe and Childers were smudging test grades or allowing cheating. The motivation would be for more school grants, and to maintain our high status as a high scoring school. Previous case: ["We found that the L&N STEM Academy was not in alignment with our district procedures regarding administering the local assessment required for recovery credit courses"](http://archive.knoxnews.com/news/former-stem-student-alleges-cheating-ep-510399095-355471961.html/).
   * Sexual Assault/Misconduct. We have talked to a teacher (who wishes to stay anonymous) who confirmed it was "nothing like that", and we are glad to rule that out
   * Affair/relationship. No evidence where we would expect it, and no good reason (most people said this as an unfunny joke).
+  * Some sort of public funds mishap (possibly unintentional), wherein the adminstrators improperly used funds for some use.
+  
   * False allegation. It would have been sorted out, and the amount of authorities involved makes it unlikely that a kid made up allegations against them.
 
 
